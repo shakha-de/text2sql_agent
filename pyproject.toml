@@ -1,0 +1,10 @@
+[project]
+name = "train"
+version = "0.1.0"
+description = "Training "
+readme = "README.md"
+requires-python = ">=3.13"
+authors = [
+    { name = "Shakhriyor Kadamboev", email = "neuralnoor@gmail.com" }
+]
+dependencies = []
